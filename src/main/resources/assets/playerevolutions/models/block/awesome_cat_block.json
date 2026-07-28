@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "playerevolutions:blocks/cat1",
+    "up": "playerevolutions:blocks/cat1",
+    "down": "playerevolutions:blocks/cat2",
+    "north": "playerevolutions:blocks/cat3",
+    "south": "playerevolutions:blocks/cat4",
+    "east": "playerevolutions:blocks/cat5",
+    "west": "playerevolutions:blocks/cat6"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:cat_spawn_egg"
+    },
+    {
+      "item": "minecraft:bedrock"
+    },
+    {
+      "item": "playerevolutions:ruby_block"
+    },
+    {
+      "item": "minecraft:music_disc_cat"
+    }
+  ],
+  "result": {
+    "item": "playerevolutions:awesome_cat_block",
+    "count": 1
+  }
+}
