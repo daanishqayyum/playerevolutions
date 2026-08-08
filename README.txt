@@ -9,6 +9,9 @@ Note also that the patches are built against "unrenamed" MCP source code (aka
 srgnames) - this means that you will not be able to read them directly against
 normal code.
 
+Here is a demo of the game:
+https://drive.google.com/file/d/1LTZlAyAljIYYmg_mwHaLDDEeF3_GPSJd/view
+
 Source pack installation information:
 
 Standalone source installation
